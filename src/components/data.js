@@ -1,0 +1,25 @@
+export const defaultOptions = [
+  "First options",
+  "Secont options",
+  "Third options",
+  "Third options",
+  "Forth options",
+  "Fiveth options",
+  "Sixeth options",
+  "Seventh options",
+  "Eighth options",
+  "Nineth options",
+  "Tenth options",
+];
+export const defaultOptions1 = [
+  "آپشن اول",
+  "آپشن دوم",
+  "آپشن سوم",
+  "آپشن چهارم",
+  "آپشن پنجم",
+  "آپشن ششم",
+  "آپشن هفتم",
+  "آپشن هشتم",
+  "آپشن نهم",
+  "آپشن دهم",
+];
